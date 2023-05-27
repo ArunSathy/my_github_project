@@ -1,6 +1,1 @@
-Hi
-I'm Arun Sathyan
-I'm an Amazonian
-
-We have created an account in github and pushed
-
+Updating the file to push to github
